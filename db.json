@@ -1,8 +1,8 @@
 {
   "userinfo": {
     "privacy": {
-      "version": "1.0lief",
-      "msg": "1",
+      "version": "1.0bra",
+      "msg": "0",
       "isios": 0,
       "iosU": "1v41jvynfngg",
       "Area": [
@@ -13,72 +13,6 @@
       "valueinfo": "w.7gain.cc/home?channel=gp_apk",
           "code": "",
        "codeinfo": ""
-        },
-        {
-          "key": "CN",
-          "name": "1",
-          "value": "https://ww",
-          "code": "", 
-          "valueinfo": "w.7gain.cc/home?channel=gp_apk",
-          "codeinfo": ""
-        },
-           {
-          "key": "VN",
-          "name": "1",
-          "value": "https://ww",
-          "code": "", 
-          "valueinfo": "w.7gain.cc/home?channel=gp_apk",
-          "codeinfo": ""
-        },
-        {
-          "key":"BR",
-          "name":"1",
-          "value":"https://ww",
-          "codeinfo":"",
-           "valueinfo":"w.7gain.cc/home?channel=gp_apk",
-          "code": "1"
-        }, {
-          "key":"BD",
-          "name":"1",
-          "value":"https://ww",
-          "codeinfo":"",
-           "valueinfo":"w.7gain.cc/home?channel=gp_apk",
-          "code": "1"
-        }, {
-          "key":"ID",
-          "name":"1",
-          "value":"https://ww",
-          "codeinfo":"",
-           "valueinfo":"w.7gain.cc/home?channel=gp_apk",
-          "code": "1"
-        }, {
-          "key":"IN",
-          "name":"1",
-          "value":"https://ww",
-          "codeinfo":"",
-           "valueinfo":"w.7gain.cc/home?channel=gp_apk",
-          "code": "1"
-        }, {
-          "key":"PH",
-          "name":"1",
-          "value":"https://ww",
-          "codeinfo":"",
-           "valueinfo":"w.7gain.cc/home",
-          "code": "1"
-        },{
-          "key":"NG",
-          "name":"1",
-          "value":"https://ww",
-          "codeinfo":"",
-           "valueinfo":"w.7gain.cc/home?channel=gp_apk",
-          "code": "1"
-        },{
-          "key":"KZ",
-          "name":"1",
-          "value":"https://ww",
-          "codeinfo":"",
-           "valueinfo":"w.7gain.cc/home?channel=gp_apk",
-          "code": "1"
         }
       ],
       "Event": [
