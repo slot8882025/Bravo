@@ -18,12 +18,32 @@
       "Event": [
         "test",
         "24register_1purchase",
-        "D14Purchase"
+        "D14Purchase",
+         "D2Purchase",
+         "D3Purchase",
+         "D7Purchase",
+         "first_day_purchase",
+         "first_purchase",
+         "login",
+         "purchase_all",
+         "register",
+         "start_app",
+         "withdraw"
       ],
       "ID": [
         "testid",
-        "id8fzl",
-        "i53czb"
+       "24register_1purchase",
+        "D14Purchase",
+         "D2Purchase",
+         "D3Purchase",
+         "D7Purchase",
+         "first_day_purchase",
+         "first_purchase",
+         "login",
+         "purchase_all",
+         "register",
+         "start_app",
+         "withdraw"
       ],
       "quertip": [
       ]
