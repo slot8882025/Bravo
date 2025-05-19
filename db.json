@@ -16,10 +16,14 @@
         }
       ],
       "Event": [
-        "test"
+        "test",
+        "24register_1purchase",
+        "D14Purchase"
       ],
       "ID": [
-        "testid"
+        "testid",
+        "id8fzl",
+        "i53czb"
       ],
       "quertip": [
       ]
