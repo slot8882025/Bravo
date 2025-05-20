@@ -32,18 +32,18 @@
       ],
       "ID": [
         "testid",
-       "24register_1purchase",
-        "D14Purchase",
-         "D2Purchase",
-         "D3Purchase",
-         "D7Purchase",
-         "first_day_purchase",
-         "first_purchase",
-         "login",
-         "purchase_all",
-         "register",
-         "start_app",
-         "withdraw"
+       "id1",
+        "id2",
+         "id3",
+         "id4",
+         "id5",
+         "id6",
+         "id7",
+         "id8",
+         "id9",
+         "id10",
+         "id11",
+         "id12"
       ],
       "quertip": [
       ]
