@@ -72,10 +72,34 @@
         }
       ],
       "Event": [
-        "test1"
+         "test1",
+        "24register_1purchase",
+        "D14Purchase",
+        "D2Purchase",
+        "D3Purchase",
+        "D7Purchase",
+        "first_day_purchase",
+        "first_purchase",
+        "login",
+        "purchase_all",
+        "register",
+        "start_app",
+        "withdraw"
       ],
       "ID": [
-        "testid"
+         "testid",
+        "dzrx4h",
+        "c0h31f",
+        "gh5jwi",
+        "qowwgk",
+        "asebln",
+        "wvf3uj",
+        "mkjqki",
+        "8v21pm",
+        "fcdxnh",
+        "l4im8x",
+        "eqbjf5",
+        "8j6y8r"
       ],
       "quertip": [
       ]
